@@ -38,7 +38,7 @@ These can be obtained from the official YOLOv4 website or other trusted sources.
 
 ### Folder Structure
 
-`
+```arduino
 ├── assets
 │   ├── open-camera.png
 │   ├── no-camera.png
@@ -50,7 +50,7 @@ These can be obtained from the official YOLOv4 website or other trusted sources.
 │   └── yolov4.cfg
 ├── main.py
 └── README.md
-`
+```
 
 - Place the `yolov4.weights` and `yolov4.cfg` files in the models folder.
 
@@ -59,6 +59,10 @@ These can be obtained from the official YOLOv4 website or other trusted sources.
 ```bash
 python main.py
 ```
+### Screenshots
+![Screenshot]("asests/screenshot.png")
+![Screenshot]("asests/screenshot2.png")
+![Screenshot]("asests/screenshot3.png")
 
 2. UI Controls:
 
